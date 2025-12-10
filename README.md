@@ -13,4 +13,4 @@
 * Git
 * Figma
 
-https://github.com/ZagudaevaNataly/ono-tebe-nado
+https://github.com/Calabras/ono-tebe-nado
