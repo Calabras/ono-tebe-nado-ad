@@ -13,4 +13,4 @@
 * Git
 * Figma
 
-https://github.com/Calabras/ono-tebe-nado
+https://github.com/Calabras/ono-tebe-nado-ad
